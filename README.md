@@ -3,6 +3,8 @@ App to manage accounting
 
 - TODO list:
 
+-> Code android app.
+
 -> Code desktop app.
 
 - TODO in desktop app:
@@ -12,5 +14,3 @@ App to manage accounting
 -> Implement a xml parser to store table config.
 
 -> Store data in csv file.
-
--> Code android app
